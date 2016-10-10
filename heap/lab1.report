@@ -1,0 +1,445 @@
+1.It's not stable
+
+Sample Size: 10000
+
+Linear-time build time  = 15770627
+Time per student = 1577
+
+Linear-time build time  = 11847047
+Time per student = 1184
+
+Linear-time build time  = 27906034
+Time per student = 2790
+
+Linear-time build time  = 18658224
+Time per student = 1865
+
+Linear-time build time  = 12801199
+Time per student = 1280
+
+Sample Size: 100000
+
+Linear-time build time  = 27862798
+Time per student = 278
+
+Linear-time build time  = 29620257
+Time per student = 296
+
+Linear-time build time  = 29626640
+Time per student = 296
+
+Linear-time build time  = 38178069
+Time per student = 381
+
+Linear-time build time  = 29072367
+Time per student = 290
+
+Sample Size: 1000000
+
+Linear-time build time  = 95565110
+Time per student = 95
+
+Linear-time build time  = 81556462
+Time per student = 81
+
+Linear-time build time  = 1146075566
+Time per student = 1146
+
+Linear-time build time  = 92367564
+Time per student = 92
+
+Linear-time build time  = 85774902
+Time per student = 85
+
+2.
+Size: 1000000
+Linear-time build time  = 85939434
+Time per student = 85
+Iterated-insertion build time  = 1179563125
+Time per student = 1179
+
+Linear-time build time  = 95599994
+Time per student = 95
+Iterated-insertion build time  = 1157062271
+Time per student = 1157
+
+Linear-time build time  = 85745713
+Time per student = 85
+Iterated-insertion build time  = 86911399
+Time per student = 86
+
+Linear-time build time  = 1113784840
+Time per student = 1113
+Iterated-insertion build time  = 92631579
+Time per student = 92
+
+Linear-time build time  = 1173389402
+Time per student = 1173
+Iterated-insertion build time  = 81341482
+Time per student = 81
+
+After moving,
+
+Linear-time build time  = 77632875
+Time per student = 77
+Iterated-insertion build time  = 1097109139
+Time per student = 1097
+
+Linear-time build time  = 82219154
+Time per student = 82
+Iterated-insertion build time  = 1140269722
+Time per student = 1140
+
+Linear-time build time  = 122383051
+Time per student = 122
+Iterated-insertion build time  = 1163126317
+Time per student = 1163
+
+Linear-time build time  = 79084052
+Time per student = 79
+Iterated-insertion build time  = 1135826578
+Time per student = 1135
+
+More accurate,
+
+Linear-time build time  = 89058030
+Time per student = 89
+Iterated-insertion build time  = 1186405255
+Time per student = 1186
+----------------------------------------
+Linear-time build time  = 96455621
+Time per student = 96
+Iterated-insertion build time  = 140402124
+Time per student = 140
+----------------------------------------
+Linear-time build time  = 66593159
+Time per student = 66
+Iterated-insertion build time  = 121210448
+Time per student = 121
+----------------------------------------
+Linear-time build time  = 66449031
+Time per student = 66
+Iterated-insertion build time  = 121615459
+Time per student = 121
+----------------------------------------
+Linear-time build time  = 63886355
+Time per student = 63
+Iterated-insertion build time  = 118870599
+Time per student = 118
+----------------------------------------
+Linear-time build time  = 66485529
+Time per student = 66
+Iterated-insertion build time  = 147859033
+Time per student = 147
+----------------------------------------
+Linear-time build time  = 66076929
+Time per student = 66
+Iterated-insertion build time  = 124398619
+Time per student = 124
+----------------------------------------
+Linear-time build time  = 63297963
+Time per student = 63
+Iterated-insertion build time  = 136623016
+Time per student = 136
+----------------------------------------
+Linear-time build time  = 66949171
+Time per student = 66
+Iterated-insertion build time  = 118770328
+Time per student = 118
+----------------------------------------
+Linear-time build time  = 63978707
+Time per student = 63
+Iterated-insertion build time  = 117126799
+Time per student = 117
+----------------------------------------
+
+Size: 100000
+Linear-time build time  = 30549210
+Time per student = 305
+Iterated-insertion build time  = 33016105
+Time per student = 330
+----------------------------------------
+Linear-time build time  = 11792570
+Time per student = 117
+Iterated-insertion build time  = 16825216
+Time per student = 168
+----------------------------------------
+Linear-time build time  = 12253149
+Time per student = 122
+Iterated-insertion build time  = 25704461
+Time per student = 257
+----------------------------------------
+Linear-time build time  = 11884637
+Time per student = 118
+Iterated-insertion build time  = 16500447
+Time per student = 165
+----------------------------------------
+Linear-time build time  = 7842435
+Time per student = 78
+Iterated-insertion build time  = 13228756
+Time per student = 132
+----------------------------------------
+Linear-time build time  = 6171271
+Time per student = 61
+Iterated-insertion build time  = 12315216
+Time per student = 123
+----------------------------------------
+Linear-time build time  = 6695904
+Time per student = 66
+Iterated-insertion build time  = 11809008
+Time per student = 118
+----------------------------------------
+Linear-time build time  = 7014317
+Time per student = 70
+Iterated-insertion build time  = 11779799
+Time per student = 117
+----------------------------------------
+Linear-time build time  = 6570881
+Time per student = 65
+Iterated-insertion build time  = 11699665
+Time per student = 116
+----------------------------------------
+Linear-time build time  = 6030113
+Time per student = 60
+Iterated-insertion build time  = 12717526
+Time per student = 127
+----------------------------------------
+
+Size: 10000
+Linear-time build time  = 18035331
+Time per student = 1803
+Iterated-insertion build time  = 9249865
+Time per student = 924
+----------------------------------------
+Linear-time build time  = 3522195
+Time per student = 352
+Iterated-insertion build time  = 2034936
+Time per student = 203
+----------------------------------------
+Linear-time build time  = 1009540
+Time per student = 100
+Iterated-insertion build time  = 2029077
+Time per student = 202
+----------------------------------------
+Linear-time build time  = 1060148
+Time per student = 106
+Iterated-insertion build time  = 2083944
+Time per student = 208
+----------------------------------------
+Linear-time build time  = 1035598
+Time per student = 103
+Iterated-insertion build time  = 2124895
+Time per student = 212
+----------------------------------------
+Linear-time build time  = 719984
+Time per student = 71
+Iterated-insertion build time  = 1763872
+Time per student = 176
+----------------------------------------
+Linear-time build time  = 673158
+Time per student = 67
+Iterated-insertion build time  = 1865354
+Time per student = 186
+----------------------------------------
+Linear-time build time  = 1028033
+Time per student = 102
+Iterated-insertion build time  = 2113951
+Time per student = 211
+----------------------------------------
+Linear-time build time  = 1055278
+Time per student = 105
+Iterated-insertion build time  = 2040648
+Time per student = 204
+----------------------------------------
+Linear-time build time  = 1045534
+Time per student = 104
+Iterated-insertion build time  = 1928396
+Time per student = 192
+----------------------------------------
+
+There are three out of ten not stable!!!
+
+3.
+Size: 10000
+Linear-time build time  = 22124989
+Time per student = 2212
+Iterated-insertion build time  = 10398822
+Time per student = 1039
+----------------------------------------
+Linear-time build time  = 1601711
+Time per student = 160
+Iterated-insertion build time  = 3753806
+Time per student = 375
+----------------------------------------
+Linear-time build time  = 1704671
+Time per student = 170
+Iterated-insertion build time  = 3738718
+Time per student = 373
+----------------------------------------
+Linear-time build time  = 1708580
+Time per student = 170
+Iterated-insertion build time  = 3488686
+Time per student = 348
+----------------------------------------
+Linear-time build time  = 1264853
+Time per student = 126
+Iterated-insertion build time  = 3042526
+Time per student = 304
+----------------------------------------
+Linear-time build time  = 2007986
+Time per student = 200
+Iterated-insertion build time  = 5241080
+Time per student = 524
+----------------------------------------
+Linear-time build time  = 2298543
+Time per student = 229
+Iterated-insertion build time  = 5459685
+Time per student = 545
+----------------------------------------
+Linear-time build time  = 2783607
+Time per student = 278
+Iterated-insertion build time  = 4717791
+Time per student = 471
+----------------------------------------
+Linear-time build time  = 2300342
+Time per student = 230
+Iterated-insertion build time  = 4693694
+Time per student = 469
+----------------------------------------
+Linear-time build time  = 2270241
+Time per student = 227
+Iterated-insertion build time  = 5110044
+Time per student = 511
+----------------------------------------
+
+
+Size: 100000
+Linear-time build time  = 47934349
+Time per student = 479
+Iterated-insertion build time  = 47037727
+Time per student = 470
+----------------------------------------
+Linear-time build time  = 25477000
+Time per student = 254
+Iterated-insertion build time  = 52362872
+Time per student = 523
+----------------------------------------
+Linear-time build time  = 18934256
+Time per student = 189
+Iterated-insertion build time  = 45458457
+Time per student = 454
+----------------------------------------
+Linear-time build time  = 27557970
+Time per student = 275
+Iterated-insertion build time  = 54004170
+Time per student = 540
+----------------------------------------
+Linear-time build time  = 27298267
+Time per student = 272
+Iterated-insertion build time  = 30889715
+Time per student = 308
+----------------------------------------
+Linear-time build time  = 14896961
+Time per student = 148
+Iterated-insertion build time  = 31413197
+Time per student = 314
+----------------------------------------
+Linear-time build time  = 15510476
+Time per student = 155
+Iterated-insertion build time  = 29794055
+Time per student = 297
+----------------------------------------
+Linear-time build time  = 15525413
+Time per student = 155
+Iterated-insertion build time  = 34650198
+Time per student = 346
+----------------------------------------
+Linear-time build time  = 15970369
+Time per student = 159
+Iterated-insertion build time  = 30869328
+Time per student = 308
+----------------------------------------
+Linear-time build time  = 16293374
+Time per student = 162
+Iterated-insertion build time  = 33302782
+Time per student = 333
+----------------------------------------
+
+Size: 1000000
+Linear-time build time  = 1355451481
+Time per student = 1355
+Iterated-insertion build time  = 321567775
+Time per student = 321
+----------------------------------------
+Linear-time build time  = 200419062
+Time per student = 200
+Iterated-insertion build time  = 350976238
+Time per student = 350
+----------------------------------------
+Linear-time build time  = 172011182
+Time per student = 172
+Iterated-insertion build time  = 321956856
+Time per student = 321
+----------------------------------------
+Linear-time build time  = 174118148
+Time per student = 174
+Iterated-insertion build time  = 342924695
+Time per student = 342
+----------------------------------------
+Linear-time build time  = 177254620
+Time per student = 177
+Iterated-insertion build time  = 350597450
+Time per student = 350
+----------------------------------------
+Linear-time build time  = 198476182
+Time per student = 198
+Iterated-insertion build time  = 338633144
+Time per student = 338
+----------------------------------------
+Linear-time build time  = 172745763
+Time per student = 172
+Iterated-insertion build time  = 333733471
+Time per student = 333
+----------------------------------------
+Linear-time build time  = 179084251
+Time per student = 179
+Iterated-insertion build time  = 339663288
+Time per student = 339
+----------------------------------------
+Linear-time build time  = 189332427
+Time per student = 189
+Iterated-insertion build time  = 349743968
+Time per student = 349
+----------------------------------------
+Linear-time build time  = 175064560
+Time per student = 175
+Iterated-insertion build time  = 347250134
+Time per student = 347
+----------------------------------------
+
+The run time increases. Because the array is sorted.
+
+4. 
+Size: 1000000
+
+Linear-time build time  = 86598158
+Time per student = 86
+Time to make 1000 changes = 476308563
+Time per student = 476308
+
+Size: 100000
+
+Linear-time build time  = 42309067
+Time per student = 423
+Time to make 1000 changes = 50736510
+Time per student = 50736
+
+Size: 10000
+
+Linear-time build time  = 17149727
+Time per student = 1714
+Time to make 1000 changes = 21912048
+Time per student = 21912
+
+After improving my changeKey method(Never mind it's worse than my first code)
+
