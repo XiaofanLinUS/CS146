@@ -77,13 +77,16 @@ public class Node
    {
       int x = aNode.keys[0];
       int i = 0;
+      while (i < numKeys && x > keys[i])
+      {
+         i++;
+      }
+      if (numKeys > 0 && keys[i] == x)
+      {
+         return;
+      }
       if (!isLeaf())
       {
-
-         while (i < numKeys && x > keys[i])
-         {
-            i++;
-         }
          child[i].insert(aNode);
          if (child[i].isFull())
          {

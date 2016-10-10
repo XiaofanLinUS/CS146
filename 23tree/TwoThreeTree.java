@@ -5,13 +5,12 @@ public class TwoThreeTree
    public static void main(String[] args)
    {
       TwoThreeTree aTree = new TwoThreeTree();
-      for (int i = 0; i <= 20; i++)
+      for (int i = 0; i <= 10; i++)
       {
          aTree.insert(i);
       }
 
       aTree.printItOut();
-
    }
 
    public void insert(int key)
@@ -49,5 +48,47 @@ public class TwoThreeTree
             printItOut(newPartition, n);
       }
 
+   }
+
+   private Node find(int x)
+   {
+      return find(this.root, x);
+   }
+
+   private Node find(Node current, int x)
+   {
+      int keySize = current.numKeys;
+      if (current.isLeaf())
+      {
+         return current;
+      }
+
+      for (int i = 0; i < keySize; i++)
+      {
+         if (current.keys[i] == x)
+         {
+            return current;
+         } else if (x < current.keys[i])
+         {
+            return find(current.child[i], x);
+         }
+      }
+
+      return find(current.child[keySize], x);
+
+   }
+
+   public String search(int val)
+   {
+      String result = "";
+      Node targetNode = find(val);
+
+      int keySize = targetNode.numKeys;
+      for (int i = 0; i < keySize; i++)
+      {
+         result += targetNode.keys[i];
+         result += " ";
+      }
+      return result.substring(0, result.length() - 1);
    }
 }
