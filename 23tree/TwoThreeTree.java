@@ -4,13 +4,18 @@ public class TwoThreeTree
 
    public static void main(String[] args)
    {
-      TwoThreeTree aTree = new TwoThreeTree();
-      for (int i = 0; i <= 10; i++)
-      {
-         aTree.insert(i);
-      }
-
-      aTree.printItOut();
+      TwoThreeTree t = new TwoThreeTree();
+      t.insert(19);
+      t.insert(5);
+      t.insert(1);
+      t.insert(18);
+      t.insert(3);
+      t.insert(8);
+      t.insert(24);
+      t.insert(13);
+      t.insert(16);
+      t.insert(12);
+      t.printItOut();
    }
 
    public void insert(int key)
@@ -91,4 +96,5 @@ public class TwoThreeTree
       }
       return result.substring(0, result.length() - 1);
    }
+
 }
